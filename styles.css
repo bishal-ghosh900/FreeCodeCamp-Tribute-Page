@@ -1,0 +1,64 @@
+main {
+    background-color: #eee;
+    border-radius: 5px;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+header {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+body main div#img-div {
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+body main div figure figcaption#img-caption {
+    text-align: center;
+    padding: 20px;
+}
+
+body main div h3#tribute-info {
+    text-align: center;
+    padding: 20px;
+}
+
+body main div ul {
+    max-width: 580px;
+    margin: auto;
+}
+
+body main div ul li{
+    padding: 13px;
+}
+
+body main div p#speech , body main div p#from {
+    width: 40%;
+    display: block;
+    margin: auto;
+    font-style: italic;
+    padding: 13px;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 18px;
+}
