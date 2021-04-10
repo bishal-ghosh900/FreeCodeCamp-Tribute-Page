@@ -21,8 +21,11 @@ body main div#img-div {
     margin-right: 20px;
     
 }
+figure {
+    margin: 10px;
+}
 
-img {
+figure img{
     max-width: 100%;
     height: auto;
     display: block;
