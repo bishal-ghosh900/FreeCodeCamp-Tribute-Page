@@ -52,11 +52,11 @@ body main div ul li{
 }
 
 body main div p#speech , body main div p#from {
-    width: 40%;
+    max-width: 550px;
     display: block;
     margin: auto;
     font-style: italic;
-    padding: 13px;
+    padding: 20px;
 }
 
 footer {
